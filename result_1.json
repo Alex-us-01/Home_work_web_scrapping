@@ -1,0 +1,79 @@
+{
+    "1": {
+        "title": "Python developer",
+        "company": "М.Видео-Эльдорадо. ИТ",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/97632665?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "2": {
+        "title": "Middle Python developer",
+        "company": "ООО Селфсек",
+        "city": "Москва, Трубная и еще 2 ",
+        "salary": "150 000 – 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/72687504?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "3": {
+        "title": "Преподаватель Python",
+        "company": "Luxkod",
+        "city": "Москва",
+        "salary": "до 120 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97430099?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "4": {
+        "title": "Python разработчик",
+        "company": "Северсталь. IT & Digital",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/97621145?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "5": {
+        "title": "Software Developer Python",
+        "company": "ООО ВЕБ Инфраструктура",
+        "city": "Москва",
+        "salary": "80 000 – 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97149432?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "6": {
+        "title": "Python разработчик",
+        "company": "ООО Люди ПРО Групп",
+        "city": "Москва",
+        "salary": "от 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/95787634?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "7": {
+        "title": "Ведущий программист Python",
+        "company": "Веза",
+        "city": "Москва, Перово",
+        "salary": "200 000 – 270 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/95916962?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "8": {
+        "title": "Team Lead Python",
+        "company": "ООО Девман",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/95916555?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "9": {
+        "title": "Python developer",
+        "company": "Myrtle",
+        "city": "Санкт-Петербург",
+        "salary": "от 450 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/97615857?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "10": {
+        "title": "Python Developer",
+        "company": "TeamIdea (ООО ТИМИДЕЯ ГРУПП)",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/97613568?query=python&hhtmFrom=vacancy_search_list"
+    },
+    "11": {
+        "title": "Python-разработчик",
+        "company": "Qualitica",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/95214807?query=python&hhtmFrom=vacancy_search_list"
+    }
+}
